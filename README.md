@@ -270,3 +270,8 @@ Each task defines:
 * How agents should handle data
 
 ---
+## output
+<img width="1396" height="430" alt="image" src="https://github.com/user-attachments/assets/5da18ee1-3c6e-48b8-9490-b56e8844b50e" />
+<img width="1418" height="589" alt="image" src="https://github.com/user-attachments/assets/56a66f06-c7f1-4fe9-ba1c-8b45fe6cfeaa" />
+
+
