@@ -162,7 +162,7 @@ All output files are saved automatically.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo>.git
+[git clone https://github.com/<your-username>/<repo>.git](https://github.com/Subitha-Murugesan/AI-Marketing-Crew-Autonomous-Marketing-Workflow-Powered-by-CrewAI-Gemini.git)
 cd <repo>
 ```
 
