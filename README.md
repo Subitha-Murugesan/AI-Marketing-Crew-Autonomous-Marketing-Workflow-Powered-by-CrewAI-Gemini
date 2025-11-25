@@ -162,7 +162,7 @@ All output files are saved automatically.
 ### Clone the repository
 
 ```bash
-[git clone https://github.com/<your-username>/<repo>.git](https://github.com/Subitha-Murugesan/AI-Marketing-Crew-Autonomous-Marketing-Workflow-Powered-by-CrewAI-Gemini.git)
+git clone https://github.com/Subitha-Murugesan/AI-Marketing-Crew-Autonomous-Marketing-Workflow-Powered-by-CrewAI-Gemini.git
 cd <repo>
 ```
 
@@ -170,13 +170,7 @@ cd <repo>
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
+source venv/bin/activate 
 ```
 
 ### Add environment variables
